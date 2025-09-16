@@ -40,6 +40,7 @@ This project aims to predict stock prices using historical financial data and ma
 
 ## 📂 Project Structure
 Stock-Price-Predictor/
+
 │── data_preprocessor.py # Data preprocessing
 
 │── explore_data.py # Exploratory Data Analysis
